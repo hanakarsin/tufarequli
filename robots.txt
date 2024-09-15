@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap : https://jajicegija.pages.dev/sitemap.xml
